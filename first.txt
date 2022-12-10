@@ -2,3 +2,4 @@ this is our first git text
 
 adding new data
 ok we are adding you
+we are amding you
